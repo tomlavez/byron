@@ -1,6 +1,6 @@
 <h1 align = "center"> Guia do Futebol</h1>
 
-<header align = "center"><img src = "https://i.imgur.com/z8QoPiT.jpg"></header>
+<p align = "center"><img src = "https://i.imgur.com/z8QoPiT.jpg"></p>
 
 <br>
 
