@@ -18,28 +18,31 @@ A imagem acima indica as divisões do campo, sendo a área vermelha referente ao
 
 <br>
 
-## ⚔️ Ataque
-### Atacante
+## 🔴 Ataque
+### ⚔️ Atacante
 
-### Ponta
-
-<br>
-
-## ⚙️ Meio-Campo
-
-### Meia
-
-### Volante
+### 🗡️ Ponta
 
 <br>
 
-## 🛡️Defesa
+## 🟡 Meio-Campo
 
-### Lateral
+### ⚙️ Meia
 
-### Zagueiro
+### 🔗 Volante
 
-### Goleiro
+<br>
+
+## 🔵 Defesa
+
+### 💨 Lateral
+Em sua essência são os jogadores que defendem as laterais do campo, existindo um no lado esquerdo e outro no lado direito. Podem ser usados para dar suporte ao meio-campo ou ao ataque, podendo flutuar entre as divisões do campo, mas sempre voltando a sua de origem na defesa
+
+### 🛡️ Zagueiro
+Normalmente existem dois ou três em cada time e sua principal função consiste em em bloquear as tentativas de ataque do adversário
+
+### 🧤 Goleiro
+A posição mais deferente do esporte, o goleiro é o único que pode encostar a mão na bola, caso esteja dentro dá área demarcada no campo. É primordial e o jogo não pode acontecer sem a existência de um. Sua função principal é evitar que a bola entre para dentro de seu gol.
 
 <br>
 
