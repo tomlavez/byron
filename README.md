@@ -19,6 +19,8 @@ A imagem acima indica as divisões do campo, sendo a área vermelha referente ao
 <br>
 
 ## 🔴 Ataque
+#### A função dos que atuam no ataque é a de atuar ofensivamente com o objetivo de marcar gol
+
 ### ⚔️ Atacante
 
 ### 🗡️ Ponta
@@ -26,6 +28,7 @@ A imagem acima indica as divisões do campo, sendo a área vermelha referente ao
 <br>
 
 ## 🟡 Meio-Campo
+#### Função dos que atuam no meio-campo é a de apoiar as demais áreas do campo, auxiliando tanto na defesa quanto no ataque
 
 ### ⚙️ Meia
 
@@ -34,6 +37,8 @@ A imagem acima indica as divisões do campo, sendo a área vermelha referente ao
 <br>
 
 ## 🔵 Defesa
+#### Função dos que atuam na defesa é predominante a de defender, conter e retardar o ataque do adversário, para recuperar a posse de bola para sua equipe.
+
 
 ### 💨 Lateral
 Em sua essência são os jogadores que defendem as laterais do campo, existindo um no lado esquerdo e outro no lado direito. Podem ser usados para dar suporte ao meio-campo ou ao ataque, podendo flutuar entre as divisões do campo, mas sempre voltando a sua de origem na defesa
