@@ -28,7 +28,7 @@ A imagem acima indica as divisões do campo, sendo a área vermelha referente ao
 <br>
 
 ## 🟡 Meio-Campo
-#### Função dos que atuam no meio-campo é a de apoiar as demais áreas do campo, auxiliando tanto na defesa quanto no ataque
+#### A função dos que atuam no meio-campo é a de apoiar as demais áreas do campo, auxiliando tanto na defesa quanto no ataque
 
 ### ⚙️ Meia
 
@@ -37,7 +37,7 @@ A imagem acima indica as divisões do campo, sendo a área vermelha referente ao
 <br>
 
 ## 🔵 Defesa
-#### Função dos que atuam na defesa é predominante a de defender, conter e retardar o ataque do adversário, para recuperar a posse de bola para sua equipe.
+#### A função dos que atuam na defesa é predominante a de defender, conter e retardar o ataque do adversário, para recuperar a posse de bola para sua equipe.
 
 
 ### 💨 Lateral
