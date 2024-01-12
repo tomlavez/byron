@@ -23,9 +23,9 @@ A imagem acima indica as divisões do campo, sendo a área vermelha referente ao
 #### A função dos que atuam no ataque é a de atuar ofensivamente com o objetivo de marcar gol
 
 ### ⚔️ Atacante
-
+#### O [Atacante](https://pt.wikipedia.org/wiki/Atacante_(futebol)) é o típico astro do futebol , esse tem papel ofensivo e age com intuito de marcar gols ou fazer assistências à seus parceiros de equipe. 
 ### 🗡️ Ponta
-
+#### O [Ponteiro](https://pt.wikipedia.org/wiki/Ponteiro_(futebol)) também conhecido como 'ala', é o craque que joga para o lado dos campos, normalmente perto da região do escanteio, sabendo disso podem atuar tanto pelo lado direito quanto pelo lado esquerdo do campo. 
 <br>
 
 ## 🟡 Meio-Campo
@@ -66,4 +66,17 @@ Quando a partida termina em um empate, é comum se ter dois tempos adicionais, a
 
 ### 🚩 Impedimento
 
-O impedimento é uma regra que acontece no campo de ataque. Quando alguma parte do corpo do atacante estiver a frente do penúltimo defensor, é acionado o impedimento. Quando isso acontece a posse de bola é passada para o time cujo está defendendo na forma de uma falta. Após isso o jogo contínua de forma normal
+ O impedimento é uma regra que acontece no campo de ataque. Quando alguma parte do corpo do atacante estiver a frente do penúltimo defensor, é acionado o impedimento. Quando isso acontece a posse de bola é passada para o time cujo está defendendo na forma de uma falta. Após isso o jogo contínua de forma normal
+
+
+### ⚠️ Faltas
+
+Uma falta ocorre quando um dos jogadores comete uma infração descritas nas regras do jogo. Dentre elas, empurrar um adversário, tocar a bola com as mãos, todavia existem também faltas táticas as quais o jogador comete com intuito de impedir um ataque promissor do time adversário, desse modo o arbitro pode aplicar a regra da "falta tatica" e dar um cartão amarelo ao infrator.
+
+### 🧤 Pênalti
+
+Agora que ja sabemos o que é falta, vale destacar que um pênalti se trata de quando uma falta é cometida por um jogador da equipe defensora dentro da sua própria área de penalidade.
+
+
+
+
