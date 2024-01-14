@@ -15,6 +15,8 @@
 
 --- 
 
+<br>
+
 # 🤔 Sobre
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;O futebol é um esporte disputado entre duas equipes, de 11 jogadores cada, mais um técnico que as instrui. O jogo é jogado em um campo de formato retangular e tem como objetivo atravessar a bola pelo gol da equipe adversária. No final, a equipe com o maior número de gols é a vencedora da partida.</p>
@@ -86,7 +88,6 @@
 ### 🏁 Impedimento
 
  <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;O impedimento é uma regra que acontece no campo de ataque. Quando alguma parte do corpo do atacante estiver a frente do penúltimo defensor, é acionado o impedimento. Quando isso acontece a posse de bola é passada para o time cujo está defendendo na forma de uma falta. Após isso o jogo contínua de forma normal.</p>
-
 
 ### ⚠️ Faltas
 
