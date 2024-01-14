@@ -4,6 +4,17 @@
 
 <br>
 
+# Índice
+
+- [Sobre](#🤔-sobre)
+- [Posições](#🏃‍♂️-posições)
+   - [Ataque](#🔴-ataque)
+   - [Meio-Campo](#🟡-meio-campo)
+   - [Defesa](#🔵-defesa)
+- [Regras](#📖-regras)
+
+--- 
+
 # 🤔 Sobre
 
 O futebol é um esporte disputado entre duas equipes, de 11 jogadores cada, mais um técnico que as instrui. O jogo é jogado em um campo de formato retangular e tem como objetivo atravessar a bola pelo gol da equipe adversária. No final, a equipe com o maior número de gols é a vencedora da partida.
