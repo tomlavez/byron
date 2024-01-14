@@ -68,7 +68,7 @@ A posição mais diferente do esporte, o goleiro é o único que pode encostar a
 
 Quando a partida termina em um empate, é comum se ter dois tempos adicionais, ambos de 15 minutos cada, para se decidir o vencedor. Esse tempo adicional é chamado de prorrogação. Em caso desta terminar e o jogo ainda estiver empatado, pode se ter uma disputa de pênaltis.
 
-### 🚩 Impedimento
+### 🏁 Impedimento
 
  O impedimento é uma regra que acontece no campo de ataque. Quando alguma parte do corpo do atacante estiver a frente do penúltimo defensor, é acionado o impedimento. Quando isso acontece a posse de bola é passada para o time cujo está defendendo na forma de uma falta. Após isso o jogo contínua de forma normal
 
@@ -81,6 +81,12 @@ Uma falta ocorre quando um dos jogadores comete uma infração descritas nas reg
 
 Agora que ja sabemos o que é falta, vale destacar que um pênalti se trata de quando uma falta é cometida por um jogador da equipe defensora dentro da sua própria área de penalidade.
 
+### 🚩 Escanteio
 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;O escanteio, ou corner, como também é chamado, é uma forma de reiniciar a partida e acontece quando a bola ultrapassa na sua totalidade a linha de meta, excluindo a parte entre as traves, rente ao solo ou pelo ar, depois de um jogador da equipe defensora ter sido o último a tocar na bola.</p>
+
+### 🫸 Lateral
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Se a bola sai por um dos lados, deve ser lançada com a mão. A bola só é considerada novamente em jogo quando for tocada por outro jogador que não o que a tenha arremessado. Pela regra de futebol, não é permitido marcar gol diretamente da lateral. Se isso acontecer, é revertida uma lateral para a equipe adversária.</p>
 
 
