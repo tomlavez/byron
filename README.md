@@ -34,7 +34,11 @@ A imagem acima indica as divisões do campo, sendo a área vermelha referente ao
 
 ### ⚙️ Meia
 
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Os meios campistas são os responsáveis pelas criações das jogadas, ou seja armar o jogo. Atuando a partir do campo do adversário pelos lados direito, esquerdo ou mesmo pelo centro, estes atletas muitas vezes são os detentores de maior técnica e habilidade e dão passes para a conclusão dos atacantes. Metaforicamente, são o cérebro da equipe. Geralmente eles usam a camisa 10 do time.</p>
+
 ### 🔗 Volante
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;A posição é muitas vezes confundida com cabeça de área. Porém, volante é, em geral, uma posição mais central, enquanto o cabeça de área fica mais a frente da defesa. No campo, o volante se posiciona na linha de centro, fazendo a saída de bola da defesa para o ataque. Além disso, também tem a função de recuperar a bola.</p>
 
 <br>
 
