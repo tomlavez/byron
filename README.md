@@ -84,26 +84,32 @@
 ### ⏱️ Prorrogação
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Quando a partida termina em um empate, é comum se ter dois tempos adicionais, ambos de 15 minutos cada, para se decidir o vencedor. Esse tempo adicional é chamado de prorrogação. Em caso desta terminar e o jogo ainda estiver empatado, pode se ter uma disputa de pênaltis.</p>
+<p align = "center"><img src = "https://i.imgur.com/uCc9vcw.gif"></p>
 
 ### 🏁 Impedimento
 
  <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;O impedimento é uma regra que acontece no campo de ataque. Quando alguma parte do corpo do atacante estiver a frente do penúltimo defensor, é acionado o impedimento. Quando isso acontece a posse de bola é passada para o time cujo está defendendo na forma de uma falta. Após isso o jogo contínua de forma normal.</p>
+ <p align = "center"><img src = "https://i.imgur.com/NGVAVpe.gif"></p>
 
 ### ⚠️ Faltas
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Uma falta ocorre quando um dos jogadores comete uma infração descritas nas regras do jogo. Dentre elas, empurrar um adversário, tocar a bola com as mãos, todavia existem também faltas táticas as quais o jogador comete com intuito de impedir um ataque promissor do time adversário, desse modo o arbitro pode aplicar a regra da "falta tatica" e dar um cartão amarelo ao infrator.</p>
+<p align = "center"><img src = "https://i.imgur.com/N6a1BYP.gif"></p>
 
 ### 🧤 Pênalti
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Agora que ja sabemos o que é falta, vale destacar que um pênalti se trata de quando uma falta é cometida por um jogador da equipe defensora dentro da sua própria área de penalidade.</p>
+<p align = "center"><img src = "https://i.imgur.com/EJdR8DS.gif"></p>
 
 ### 🚩 Escanteio
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;O escanteio, ou corner, como também é chamado, é uma forma de reiniciar a partida e acontece quando a bola ultrapassa na sua totalidade a linha de meta, excluindo a parte entre as traves, rente ao solo ou pelo ar, depois de um jogador da equipe defensora ter sido o último a tocar na bola.</p>
+<p align = "center"><img src = "https://i.imgur.com/aSIe6ja.gif"></p>
 
 ### 🫸 Lateral
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Se a bola sai por um dos lados, deve ser lançada com a mão. A bola só é considerada novamente em jogo quando for tocada por outro jogador que não o que a tenha arremessado. Pela regra de futebol, não é permitido marcar gol diretamente da lateral. Se isso acontecer, é revertida uma lateral para a equipe adversária.</p>
+<p align = "center"><img src = "https://i.imgur.com/8e7bVWJ.gif"></p>
 
 ---
 
