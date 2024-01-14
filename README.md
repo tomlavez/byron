@@ -89,4 +89,12 @@ Agora que ja sabemos o que é falta, vale destacar que um pênalti se trata de q
 
 <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Se a bola sai por um dos lados, deve ser lançada com a mão. A bola só é considerada novamente em jogo quando for tocada por outro jogador que não o que a tenha arremessado. Pela regra de futebol, não é permitido marcar gol diretamente da lateral. Se isso acontecer, é revertida uma lateral para a equipe adversária.</p>
 
+---
 
+#### Desenvolvido com 💙 pelos trainees:
+
+- Eduardo Siles
+- Tomás Lavez
+- Pedro Paulo
+
+<p align="center">🦘</p>
