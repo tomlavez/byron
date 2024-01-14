@@ -17,7 +17,7 @@
 
 # 🤔 Sobre
 
-O futebol é um esporte disputado entre duas equipes, de 11 jogadores cada, mais um técnico que as instrui. O jogo é jogado em um campo de formato retangular e tem como objetivo atravessar a bola pelo gol da equipe adversária. No final, a equipe com o maior número de gols é a vencedora da partida.
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;O futebol é um esporte disputado entre duas equipes, de 11 jogadores cada, mais um técnico que as instrui. O jogo é jogado em um campo de formato retangular e tem como objetivo atravessar a bola pelo gol da equipe adversária. No final, a equipe com o maior número de gols é a vencedora da partida.</p>
 
 <br>
 
@@ -25,7 +25,7 @@ O futebol é um esporte disputado entre duas equipes, de 11 jogadores cada, mais
 
 <p align = "center"> <img src = "https://ik.imagekit.io/tomlavez/setores-transformed.jpeg?updatedAt=1704852698620"> <p>
 
-A imagem acima indica as divisões do campo, sendo a área vermelha referente ao ataque, a amarela ao meio-campo e a azul a defesa. Dentro dessas áreas podemos encontrar as principais posições dos jogadores durante o jogo.
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;A imagem acima indica as divisões do campo, sendo a área vermelha referente ao ataque, a amarela ao meio-campo e a azul a defesa. Dentro dessas áreas podemos encontrar as principais posições dos jogadores durante o jogo.</p>
 
 <br>
 
@@ -34,9 +34,13 @@ A imagem acima indica as divisões do campo, sendo a área vermelha referente ao
 #### A função dos que atuam no ataque é a de atuar ofensivamente com o objetivo de marcar gol
 
 ### ⚔️ Atacante
-#### O [Atacante](https://pt.wikipedia.org/wiki/Atacante_(futebol)) é o típico astro do futebol , esse tem papel ofensivo e age com intuito de marcar gols ou fazer assistências à seus parceiros de equipe. 
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;O <a href="https://pt.wikipedia.org/wiki/Atacante_(futebol)">Atacante</a> é o típico astro do futebol, esse tem papel ofensivo e age com intuito de marcar gols ou fazer assistências à seus parceiros de equipe.</p>
+
 ### 🗡️ Ponta
-#### O [Ponteiro](https://pt.wikipedia.org/wiki/Ponteiro_(futebol)) também conhecido como 'ala', é o craque que joga para o lado dos campos, normalmente perto da região do escanteio, sabendo disso podem atuar tanto pelo lado direito quanto pelo lado esquerdo do campo. 
+
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;O <a href="https://pt.wikipedia.org/wiki/Ponteiro_(futebol)"> Ponteiro</a> também conhecido como 'ala', é o craque que joga para o lado dos campos, normalmente perto da região do escanteio, sabendo disso podem atuar tanto pelo lado direito quanto pelo lado esquerdo do campo.</p>
+
 <br>
 
 ## 🟡 Meio-Campo
@@ -59,15 +63,15 @@ A imagem acima indica as divisões do campo, sendo a área vermelha referente ao
 
 ### 💨 Lateral
 
-Em sua essência são os jogadores que defendem as laterais do campo, existindo um no lado esquerdo e outro no lado direito. Podem ser usados para dar suporte ao meio-campo ou ao ataque, podendo flutuar entre as divisões do campo, mas sempre voltando a sua de origem na defesa
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Em sua essência são os jogadores que defendem as laterais do campo, existindo um no lado esquerdo e outro no lado direito. Podem ser usados para dar suporte ao meio-campo ou ao ataque, podendo flutuar entre as divisões do campo, mas sempre voltando a sua de origem na defesa.</p>
 
 ### 🛡️ Zagueiro
 
-Normalmente existem dois ou três em cada time e sua principal função consiste em em bloquear as tentativas de ataque do adversário
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Normalmente existem dois ou três em cada time e sua principal função consiste em bloquear as tentativas de ataque do adversário.</p>
 
 ### 🧤 Goleiro
 
-A posição mais diferente do esporte, o goleiro é o único que pode encostar a mão na bola, caso esteja dentro dá área demarcada no campo. É primordial e o jogo não pode acontecer sem a existência de um. Sua função principal é evitar que a bola entre para dentro de seu gol.
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;A posição mais diferente do esporte, o goleiro é o único que pode encostar a mão na bola, caso esteja dentro dá área demarcada no campo. É primordial e o jogo não pode acontecer sem a existência de um. Sua função principal é evitar que a bola entre para dentro de seu gol.</p>
 
 <br>
 
@@ -77,20 +81,20 @@ A posição mais diferente do esporte, o goleiro é o único que pode encostar a
 
 ### ⏱️ Prorrogação
 
-Quando a partida termina em um empate, é comum se ter dois tempos adicionais, ambos de 15 minutos cada, para se decidir o vencedor. Esse tempo adicional é chamado de prorrogação. Em caso desta terminar e o jogo ainda estiver empatado, pode se ter uma disputa de pênaltis.
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Quando a partida termina em um empate, é comum se ter dois tempos adicionais, ambos de 15 minutos cada, para se decidir o vencedor. Esse tempo adicional é chamado de prorrogação. Em caso desta terminar e o jogo ainda estiver empatado, pode se ter uma disputa de pênaltis.</p>
 
 ### 🏁 Impedimento
 
- O impedimento é uma regra que acontece no campo de ataque. Quando alguma parte do corpo do atacante estiver a frente do penúltimo defensor, é acionado o impedimento. Quando isso acontece a posse de bola é passada para o time cujo está defendendo na forma de uma falta. Após isso o jogo contínua de forma normal
+ <p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;O impedimento é uma regra que acontece no campo de ataque. Quando alguma parte do corpo do atacante estiver a frente do penúltimo defensor, é acionado o impedimento. Quando isso acontece a posse de bola é passada para o time cujo está defendendo na forma de uma falta. Após isso o jogo contínua de forma normal.</p>
 
 
 ### ⚠️ Faltas
 
-Uma falta ocorre quando um dos jogadores comete uma infração descritas nas regras do jogo. Dentre elas, empurrar um adversário, tocar a bola com as mãos, todavia existem também faltas táticas as quais o jogador comete com intuito de impedir um ataque promissor do time adversário, desse modo o arbitro pode aplicar a regra da "falta tatica" e dar um cartão amarelo ao infrator.
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Uma falta ocorre quando um dos jogadores comete uma infração descritas nas regras do jogo. Dentre elas, empurrar um adversário, tocar a bola com as mãos, todavia existem também faltas táticas as quais o jogador comete com intuito de impedir um ataque promissor do time adversário, desse modo o arbitro pode aplicar a regra da "falta tatica" e dar um cartão amarelo ao infrator.</p>
 
 ### 🧤 Pênalti
 
-Agora que ja sabemos o que é falta, vale destacar que um pênalti se trata de quando uma falta é cometida por um jogador da equipe defensora dentro da sua própria área de penalidade.
+<p align="justify">&nbsp;&nbsp;&nbsp;&nbsp;Agora que ja sabemos o que é falta, vale destacar que um pênalti se trata de quando uma falta é cometida por um jogador da equipe defensora dentro da sua própria área de penalidade.</p>
 
 ### 🚩 Escanteio
 
