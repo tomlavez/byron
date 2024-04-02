@@ -8,12 +8,12 @@
 
 - [Sobre](#🤔-sobre)
 - [Posições](#🏃‍♂️-posições)
-   - [Ataque](#🔴-ataque)
-   - [Meio-Campo](#🟡-meio-campo)
-   - [Defesa](#🔵-defesa)
+  - [Ataque](#🔴-ataque)
+  - [Meio-Campo](#🟡-meio-campo)
+  - [Defesa](#🔵-defesa)
 - [Regras](#📖-regras)
 
---- 
+---
 
 <br>
 
@@ -115,8 +115,8 @@
 
 #### Desenvolvido com 💙 pelos trainees:
 
-- Eduardo Siles
-- Tomás Lavez
-- Pedro Paulo
+<a href="https://github.com/edusiles">- Eduardo Siles</a>
+<a href="https://github.com/tomlavez">- Tomás Lavez</a>
+<a href="https://github.com/pedropmoreira">- Pedro Paulo</a>
 
 <p align="center">🦘</p>
