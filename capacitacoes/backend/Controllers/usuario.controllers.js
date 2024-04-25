@@ -1,8 +1,22 @@
 import { PrismaClient } from "@prisma/client";
+import generateToken from "../utils/jwt.js";
 
 const prisma = new PrismaClient()
 
 export const criarUsuario = async (req, res) => {
+    const existe = await prisma.usuario.findFirst({
+        where: {
+            email: req.body.email,
+        }
+    })
+
+    if (existe)
+        return res.status(400).json({
+            data: existe,
+            msg: "Email já cadastrado. O email é uma chave única e não pode ser cadastrada duas vezes."
+        }) 
+
+
     const usuario = await prisma.usuario.create({
         data: {
             email: req.body.email,
@@ -12,15 +26,25 @@ export const criarUsuario = async (req, res) => {
                 create: {
                     nome: req.body.nome,
                     telefone: req.body.telefone
-                }
-            }
-        }
+                },
+            },
+            pedido: {
+                create: {
+                    valor: 0,
+                    livro: { create: [] },
+                },
+            },
+        },
     })
 
-    res.json({
+    const token = generateToken(usuario); // gerando token de acesso
+
+    res.status(201).json({
+        // retornando informações do usuário criado
         data: usuario,
-        msg: "Usuário criado com sucesso!"
-    })
+        token: token,
+        msg: "Usuário criado com sucesso!",
+    });
 
 }
 
@@ -96,3 +120,30 @@ export const deletarUsuario = async (req, res) => {
     })
 
 }
+
+export const login = async (req, res) => {
+    const user = await prisma.usuario.findFirst({
+      // buscando usuário com esse email e senha
+      where: {
+        AND: {
+          email: req.body.email,
+          senha: req.body.senha,
+        },
+      },
+    });
+  
+    if (user === null) {
+      // nenhum usuário encontrado
+      return res.status(403).json({
+        msg: "Email ou senha incorretos.",
+      });
+    }
+  
+    const token = generateToken(user); // gerando o token de acesso
+    res.json({
+      // deu tudo certo, o usuário foi logado
+      data: user,
+      token: token,
+      msg: "Login realizado com sucesso!",
+    });
+  };

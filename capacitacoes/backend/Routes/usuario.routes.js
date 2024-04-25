@@ -13,4 +13,6 @@ router.put('/:usuarioId', usuarioController.atualizarUsuario)
 
 router.delete('/:usuarioId', usuarioController.deletarUsuario)
 
+router.post("/login", usuarioController.login); // rota para login do usuário
+
 export default router
