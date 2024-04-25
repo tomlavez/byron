@@ -1,5 +1,6 @@
 import express from 'express'
 import * as usuarioController from '../Controllers/usuario.controllers.js'
+import adminLevel from "../middlewares/admin.middleware.js"
 
 const router = express.Router()
 
