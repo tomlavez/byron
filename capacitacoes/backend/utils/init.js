@@ -4,7 +4,7 @@ import { PrismaClient } from "@prisma/client";
 
 const prisma = new PrismaClient();
 
-const initAdmin = async () => {
+export const initAdmin = async () => {
   // verificando se o usuário existe
   const exists = await prisma.usuario.findFirst({
     where: {
@@ -47,4 +47,86 @@ const initAdmin = async () => {
   });
 };
 
-export default initAdmin;
+export const initLivros = async () => {
+  // verificando se existem livros na base de dados
+  let count = await prisma.livro.count();
+  if (count > 0){
+    console.log("Livros já existem na base de dados!")
+
+   return;
+  }
+
+  // se não existirem livros, a api será populada com livros
+  initManga();
+  initGraphicNovels();
+
+  console.log("Api populada com sucesso!")
+}
+
+const initManga = async () => {
+  // buscando livros do tipo mangá
+  const response = await fetch("https://www.googleapis.com/books/v1/volumes?q=%20Mang%C3%A1&maxResults=20");
+
+  const data = await response.json();
+
+  const livros = data.items.map(async (item) => {
+    // verificando se o livro já existe na base de dados
+    const livro = await prisma.livro.findFirst({
+      where: {
+        titulo: item.volumeInfo.title,
+      },
+      })
+    // se o livro não existir, ele será criado
+    if (!livro) {
+      let autores = "Autores não informados!"
+      if (item.volumeInfo.authors) {
+        autores = ""
+        item.volumeInfo.authors.forEach((autor) => {
+          autores += autor + "; "
+        })
+      }
+      await prisma.livro.create({
+        data: {
+          titulo: item.volumeInfo.title,
+          autor: autores,
+          estoque: 20,
+          valor: 50,
+        },
+      });
+    }
+  });
+}
+
+const initGraphicNovels = async () => {
+  // buscando livros do tipo graphic novels
+  const response = await fetch("https://www.googleapis.com/books/v1/volumes?q=subject:%20Graphic%20Novels&maxResults=20");
+
+  const data = await response.json();
+
+  const livros = data.items.map(async (item) => {
+    // verificando se o livro já existe na base de dados
+    const livro = await prisma.livro.findFirst({
+      where: {
+        titulo: item.volumeInfo.title,
+      },
+      })
+    // se o livro não existir, ele será criado
+    if (!livro) {
+      let autores = "Autores não informados!"
+      if (item.volumeInfo.authors) {
+        autores = ""
+        item.volumeInfo.authors.forEach((autor) => {
+          autores += autor + "; "
+        })
+      }
+      await prisma.livro.create({
+        data: {
+          titulo: item.volumeInfo.title,
+          autor: autores,
+          estoque: 20,
+          valor: 50,
+        },
+      });
+    }
+  });
+}

@@ -41,8 +41,9 @@ model Pedido {
 model Livro {
   id      Int      @id @default(autoincrement())
   titulo  String   @unique
-  autor   String   @db.VarChar(45)
+  autor   String[] @db.VarChar(45)
   capa    String?
   estoque Int
+  valor   Float
   pedido  Pedido[]
 }

@@ -7,7 +7,8 @@ export const criarLivro = async (req, res) => {
         data: {
             titulo: req.body.titulo,
             autor: req.body.autor,
-            estoque: req.body.estoque
+            estoque: req.body.estoque,
+            valor: req.body.preco
         }
     })
 
