@@ -10,7 +10,7 @@ router.get('/:livroId', livroController.getLivroPorId)
 
 router.post('/', adminLevel, livroController.criarLivro)
 
-router.put('/:livroId', adminLevel, livroController.atualizarEstoque)
+router.put('/', adminLevel, livroController.criarLivro)
 
 router.delete('/:livroId', adminLevel, livroController.deletarLivro)
 

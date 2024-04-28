@@ -3,6 +3,33 @@ import { PrismaClient } from "@prisma/client"
 const prisma = new PrismaClient()
 
 export const criarLivro = async (req, res) => {
+    // verificando se o livro já existe
+    const exists = await prisma.livro.findFirst({
+        where: {
+            titulo: req.body.titulo,
+        },
+    })
+
+    // se o livro já existe, atualiza as informações
+    if (exists){
+        const livro = await prisma.livro.update({
+            where: {
+                id: exists.id,
+            },
+            data: {
+                estoque: req.body.estoque,
+                valor: req.body.valor
+            }
+        })
+    
+    res.json({
+        data: livro,
+        msg: "Estoque atualizado com sucesso!"
+    })
+    return
+    }
+        
+    // se o livro não existe, ele é criado
     const livro = await prisma.livro.create({
         data: {
             titulo: req.body.titulo,
@@ -15,22 +42,6 @@ export const criarLivro = async (req, res) => {
     res.json({
         data: livro,
         msg: "Livro criado com sucesso!"
-    })
-}
-
-export const atualizarEstoque = async (req, res) => {
-    const livro = await prisma.livro.update({
-        where: {
-            id: parseInt(req.params.livroId)
-        },
-        data: {
-            estoque: req.body.estoque
-        }
-    })
-
-    res.json({
-        data: livro,
-        msg: "Estoque atualizado com sucesso!"
     })
 }
 
