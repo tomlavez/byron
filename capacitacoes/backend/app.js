@@ -7,6 +7,7 @@ const app = express()
 const port = 3000
 
 app.use(express.json())
+app.use('/public', express.static('public'))
 
 app.use("/livros", livroRouter)
 app.use("/usuarios", usuarioRouter)

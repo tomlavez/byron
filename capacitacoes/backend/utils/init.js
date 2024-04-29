@@ -76,8 +76,8 @@ const initManga = async () => {
         titulo: item.volumeInfo.title,
       },
       })
-    // se o livro não existir, ele será criado
-    if (!livro) {
+    // se o livro não existir e o livro possuir uma capa, ele será criado
+    if (!livro && 'imageLinks' in item.volumeInfo) {
       let autores = "Autores não informados!"
       if (item.volumeInfo.authors) {
         autores = ""
@@ -91,6 +91,7 @@ const initManga = async () => {
           autor: autores,
           estoque: 20,
           valor: 50,
+          capa: item.volumeInfo.imageLinks.thumbnail,
         },
       });
     }
@@ -111,7 +112,7 @@ const initGraphicNovels = async () => {
       },
       })
     // se o livro não existir, ele será criado
-    if (!livro) {
+    if (!livro && 'imageLinks' in item.volumeInfo) {
       let autores = "Autores não informados!"
       if (item.volumeInfo.authors) {
         autores = ""
@@ -125,6 +126,7 @@ const initGraphicNovels = async () => {
           autor: autores,
           estoque: 20,
           valor: 50,
+          capa: item.volumeInfo.imageLinks.thumbnail,
         },
       });
     }
